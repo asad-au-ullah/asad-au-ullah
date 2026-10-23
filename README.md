@@ -20,7 +20,7 @@ Our operator consoles showed real-time availability indicators for contacts on p
 - Targeted both .NET 6 and .NET Framework 4.8 so it could share code with existing engines and connectors.
 - Reached 100% unit test coverage, and the tests exposed tight coupling that I refactored away.
 
-📖 Read the full write-up, including my mistakes: [Webex Presence case study](https://github.com/asad-au-ullah/case-studies/blob/main/webex-presence-polling.md)
+📖 Read the full write-up, including the lessons I've learnt: [Webex Presence case study](https://github.com/asad-au-ullah/case-studies/blob/main/webex-presence-polling.md)
 
 ## Find me
 
